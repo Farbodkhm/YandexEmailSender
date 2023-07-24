@@ -20,3 +20,8 @@ Create your app password from here: passport.yandex\security\app passwords\yande
 And from here give the access 
 
 ![image](https://github.com/Farbodkhm/YandexEmailSender/assets/68291080/8b0371a9-3aa6-4f81-a048-1daee020f9d9)
+
+
+## Important Notes
+
+**_If your email get rejected because of SPAM, change the subject & body_**
