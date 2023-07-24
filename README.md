@@ -5,7 +5,7 @@ In this particular case, I am simulating a very simple Email Verification system
 
 ## Guidline
 
-First you need to satisfy these two requirments: 
+First you need to satisfy these requirments: 
 
 1. `Yandex Account`
 2. `Yandex App Password (Third-party password)`
