@@ -24,4 +24,4 @@ And from here give the access
 
 ## Important Notes
 
-**_If your email get rejected because of SPAM, change the subject & body_**
+**_If your email got rejected because of SPAM, change the subject & body_**
