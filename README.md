@@ -3,7 +3,7 @@ Sending emails with Yandex
 
 In this particular case, I am simulating a very simple Email Verification system
 
-## Guideline
+## How to use
 
 First you need to satisfy these requirments: 
 
